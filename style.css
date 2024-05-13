@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+
+.div1{
+    width: 223px;
+    height: 192px;
+    top: 11px;
+    left: 12px;
+    background-color: #FC0000;
+    position: relative;
+    z-index: 3;
+}
+
+.div2{
+    width: 223px;
+    height: 192px;
+    top: 107px;
+    left: 128px;
+    background-color: #05FC00;
+    position: absolute;
+    z-index: 2;
+}
+
+.div3{
+    width: 223px;
+    height: 192px;
+    top: 203px;
+    left: 244px;
+    background-color: #000AFC;
+    position: absolute;
+    z-index: 0;
+}
+
+.div4{
+    width: 223px;
+    height: 192px;
+    top: 253px;
+    left: 314px;
+    background-color: #F7FC00;
+    position: absolute;
+    z-index: 1;
+}
